@@ -1,3 +1,5 @@
 file 6 from branch 3
 
 Change from branch b4 in file 6
+
+F6 B4 to B3
